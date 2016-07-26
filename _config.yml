@@ -1,0 +1,14 @@
+layout_spectrum: 0.10872110794298351
+typography_spectrum: 0.4706795709207654
+color:
+  brandStrength: 0.2570228644181043
+  lightness: 0.18284403067082167
+  saturation: 0.5102365515194833
+  rhythmicContrast: 0.37799745122902095
+  brandColors:
+    - '#2C3E50'
+    - '#E74C3C'
+    - '#ECF0F1'
+    - '#3498DB'
+    - '#2980B9'
+name: Marketing Results
